@@ -1,0 +1,10 @@
+values ('1102020','Fabio Quartararo','L','TI','Cibolang');
+values ('1102021','Marc Marquez','L','TI','Cisaat');
+values ('1102022','Johan Zarco','L','TE','Baros');
+values ('1102023','Valentino Rossi','L','SI','Kadudampit');
+values ('1102024','Alex Rins','L','TI','Cigunung');
+values ('1102025','Francesco Bagnaia','L','TE','Cibeureum');
+values ('1102026','Jack Miller','L','SI','Cikole');
+values ('1102027','Maverick Vinales','L','TI','Warudoyong');
+values ('1102028','Han So Hee','P','TE','Kabandungan');
+values ('1102029','Kim Chae Won','p','SI','Bhayangkara');
